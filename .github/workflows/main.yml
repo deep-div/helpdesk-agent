@@ -1,0 +1,15 @@
+name: Ping Website Every N Minutes
+
+on:
+  schedule:
+    - cron: "*/2 * * * *" 
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Curl request to website
+        run: |
+          curl -s https://fundscreener.online/ > /dev/null
