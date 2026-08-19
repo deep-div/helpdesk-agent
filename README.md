@@ -4,50 +4,6 @@
 https://github.com/user-attachments/assets/b5d9a3e8-9d80-444e-9123-2bdca5c49562
 
 
-
-A simple and efficient AI-powered Helpdesk system where users can register complaints, track their status, and get automated assistance. This project integrates Google's **Gemini Flash** model to assist in handling user queries and issues.
- 
----
-
-## 📁 Project Structure
-
-```
-HelpDesk-AI/
-│
-├── backend/
-│   └── app/
-│       ├── apis/
-│       ├── core/
-│       ├── gemini/
-│       ├── models/
-│       ├── mongodb/
-│       └── main.py
-│
-├── frontend/
-│   ├── images/
-│   └── streamlit_ui.py
-│
-├── .env
-├── LICENSE
-├── pyproject.toml
-├── README.md
-```
-
----
-
-## 🚀 Features
-
-* 📝 Register user complaints
-* 📊 Track and check the status of complaints
-* 🤖 AI agent built with **Gemini Flash** to assist user interactions
-* 🗂️ MongoDB backend for persistent storage
-* ⚡ FastAPI backend
-* 🎨 Streamlit frontend for simple, user-friendly UI
-
----
-
-
-
 ## ⚙️ Setup Instructions
 
 > Make sure Python 3.10+ is installed and accessible via `py` or `python3`.
