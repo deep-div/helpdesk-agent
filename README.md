@@ -1,19 +1,12 @@
 # HelpDesk-AI
 
-
-Here’s a professional `README.md` file for your **HelpDesk-AI** project, incorporating your folder structure, instructions, and features:
-
----
-
-# 🛠️ HelpDesk-AI
-
 A simple and efficient AI-powered Helpdesk system where users can register complaints, track their status, and get automated assistance. This project integrates Google's **Gemini Flash** model to assist in handling user queries and issues.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
-```
+```text
 HelpDesk-AI/
 │
 ├── backend/
@@ -37,18 +30,18 @@ HelpDesk-AI/
 
 ---
 
-## 🚀 Features
+## Features
 
-* 📝 Register user complaints
-* 📊 Track and check the status of complaints
-* 🤖 AI agent built with **Gemini Flash** to assist user interactions
-* 🗂️ MongoDB backend for persistent storage
-* ⚡ FastAPI backend
-* 🎨 Streamlit frontend for simple, user-friendly UI
+* Register user complaints
+* Track and check the status of complaints
+* AI agent built with **Gemini Flash** to assist user interactions
+* MongoDB backend for persistent storage
+* FastAPI backend
+* Streamlit frontend for simple, user-friendly UI
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 > Make sure Python 3.10+ is installed and accessible via `py` or `python3`.
 
@@ -95,9 +88,9 @@ py -m streamlit run frontend/streamlit_ui.py
 
 ---
 
-## 🔐 Environment Variables
+## Environment Variables
 
-Create a `.env` file in the root directory with the following (example):
+Create a `.env` file in the root directory with the following example:
 
 ```env
 # Mongo DB
@@ -113,29 +106,10 @@ GEMINI_MODEL_NAME_FLASH_TEST = "gemini-2.0-flash"
 
 ---
 
-## 🧠 Powered By
+## Powered By
 
 * [Gemini Flash (Google GenAI)](https://ai.google.dev/)
 * [FastAPI](https://fastapi.tiangolo.com/)
 * [Streamlit](https://streamlit.io/)
 * [MongoDB](https://www.mongodb.com/)
 * [uv (fast dependency manager)](https://github.com/astral-sh/uv)
-
----
-
-## 📌 TODO / Future Improvements
-
-* Add login/authentication system
-* Admin dashboard for complaint management
-* Notification/email integration for updates
-* Improve UI/UX with chat-like interface
-
----
-
-## 📃 License
-
-This project is licensed under the MIT License - see the [LICENSE](https://chatgpt.com/c/LICENSE) file for details.
-
----
-
-Let me know if you want me to auto-generate a `README.md` file in your directory structure as well.
