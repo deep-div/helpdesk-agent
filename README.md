@@ -1,5 +1,12 @@
 # HelpDesk-AI
 
+## Agent Interface
+<img width="1920" height="879" alt="Screenshot (1013)" src="https://github.com/user-attachments/assets/23aabd22-8eb4-4285-b496-dfd832919313" />
+
+## Mongo DB
+<img width="1920" height="874" alt="Screenshot (1011)" src="https://github.com/user-attachments/assets/80ca9132-7cf5-49d0-8d21-286475831ad1" />
+
+## Demo
 https://github.com/user-attachments/assets/b5d9a3e8-9d80-444e-9123-2bdca5c49562
 
 ## Setup Instructions
