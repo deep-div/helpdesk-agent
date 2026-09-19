@@ -1,4 +1,4 @@
-# HelpDesk-AI
+# HelpDesk AI
 
 ## Agent Interface
 <img width="1920" height="879" alt="Screenshot (1013)" src="https://github.com/user-attachments/assets/23aabd22-8eb4-4285-b496-dfd832919313" />
