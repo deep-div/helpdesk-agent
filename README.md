@@ -72,14 +72,3 @@ GEMINI_API_Key_TEST = "str"
 GEMINI_MODEL_NAME_FLASH_TEST = "gemini-2.0-flash"
 ```
 
----
-
-## Powered By
-
-* [Gemini Flash (Google GenAI)](https://ai.google.dev/)
-* [FastAPI](https://fastapi.tiangolo.com/)
-* [Streamlit](https://streamlit.io/)
-* [MongoDB](https://www.mongodb.com/)
-* [uv (fast dependency manager)](https://github.com/astral-sh/uv)
-
----
